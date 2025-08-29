@@ -21,7 +21,7 @@ This project focuses on detecting and forecasting crime hotspots by combining sp
 ### **How to Run**
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/Spatio-Temporal-Crime-Hotspot-Identification-and-Prediction.git
+   git clone https://github.com/vidyaspillai/Spatio-Temporal-Crime-Hotspot-Identification-and-Prediction.git
    cd Spatio-Temporal-Crime-Hotspot-Identification-and-Prediction
 
 ---
