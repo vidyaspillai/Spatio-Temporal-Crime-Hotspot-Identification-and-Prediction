@@ -5,10 +5,10 @@ Postgraduate level project
 
 ## Overview  
 This project focuses on detecting and forecasting crime hotspots by combining **spatial** and **temporal** analysis techniques.  
+- **Dataset:** Secondary dataset from Kaggle
 - **Spatial Analysis:** Getis-Ord Gi* statistics to identify crime clusters.  
 - **Temporal Forecasting:** Prophet model to predict future crime trends.  
 - **Visualization:** Interactive visualizations created with Plotly for better insights.  
 
-The goal is to help law enforcement agencies and policymakers take **data-driven decisions** for crime prevention and resource allocation.  
 
 ---
