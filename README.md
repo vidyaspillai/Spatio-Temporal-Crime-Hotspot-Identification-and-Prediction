@@ -18,7 +18,7 @@ This project focuses on detecting and forecasting crime hotspots by combining sp
 - `FINAL SPATIO TEMPORAL CRIME HOTSPOT IDENTIFICATION AND PREDICTION.pdf`: Detailed project documentation  
 - `SPATIO TEMPORAL CRIME HOTSPOT IDENTIFICATION AND PREDICTION.pdf`: Project presentation slides
   
-## 🏷️ Skills & Tags  
+##Skills & Tags  
 
 
 <p>
