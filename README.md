@@ -20,13 +20,17 @@ This project focuses on detecting and forecasting crime hotspots by combining sp
   
 ## 🏷️ Skills & Tags  
 
-<span style="background-color:#3776AB;color:white;padding:5px 10px;border-radius:15px;">Python</span>
-<span style="background-color:#FF6F00;color:white;padding:5px 10px;border-radius:15px;">Machine Learning</span>
-<span style="background-color:#0769AD;color:white;padding:5px 10px;border-radius:15px;">Deep Learning</span>
-<span style="background-color:#228B22;color:white;padding:5px 10px;border-radius:15px;">Spatial Analysis</span>
-<span style="background-color:#8A2BE2;color:white;padding:5px 10px;border-radius:15px;">Statistics</span>
-<span style="background-color:#CC2927;color:white;padding:5px 10px;border-radius:15px;">SQL</span>
-<span style="background-color:#4285F4;color:white;padding:5px 10px;border-radius:15px;">Google Cloud</span>
+
+<p>
+  <kbd style="background-color:#3776AB; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Python</kbd>
+  <kbd style="background-color:#FF6F00; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Machine Learning</kbd>
+  <kbd style="background-color:#0769AD; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Deep Learning</kbd>
+  <kbd style="background-color:#228B22; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Spatial Analysis</kbd>
+  <kbd style="background-color:#8A2BE2; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Statistics</kbd>
+  <kbd style="background-color:#CC2927; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">SQL</kbd>
+  <kbd style="background-color:#4285F4; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Google Cloud</kbd>
+</p>
+
 
 
 
