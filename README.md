@@ -24,11 +24,11 @@ This project focuses on detecting and forecasting crime hotspots by combining sp
 <p>
   <kbd style="background-color:#3776AB; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Python</kbd>
   <kbd style="background-color:#FF6F00; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Machine Learning</kbd>
-  <kbd style="background-color:#0769AD; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Deep Learning</kbd>
+  <kbd style="background-color:#0769AD; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Time Series Analysis</kbd>
   <kbd style="background-color:#228B22; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Spatial Analysis</kbd>
-  <kbd style="background-color:#8A2BE2; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Statistics</kbd>
-  <kbd style="background-color:#CC2927; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">SQL</kbd>
-  <kbd style="background-color:#4285F4; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Google Cloud</kbd>
+  <kbd style="background-color:#8A2BE2; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Getis-Ord Gi* Statistic</kbd>
+  <kbd style="background-color:#4285F4; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Plotly</kbd>
+  <kbd style="background-color:#CC2927; color:white; padding:6px 12px; border-radius:25px; font-size:14px;">Overleaf</kbd>
 </p>
 
 
