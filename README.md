@@ -18,13 +18,16 @@ This project focuses on detecting and forecasting crime hotspots by combining sp
 - `FINAL SPATIO TEMPORAL CRIME HOTSPOT IDENTIFICATION AND PREDICTION.pdf`: Detailed project documentation  
 - `SPATIO TEMPORAL CRIME HOTSPOT IDENTIFICATION AND PREDICTION.pdf`: Project presentation slides
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0769AD?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Spatial Analysis](https://img.shields.io/badge/Spatial%20Analysis-228B22?style=for-the-badge&logo=google-earth&logoColor=white)  
-![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+## 🏷️ Skills & Tags  
+
+<span style="background-color:#3776AB;color:white;padding:5px 10px;border-radius:15px;">Python</span>
+<span style="background-color:#FF6F00;color:white;padding:5px 10px;border-radius:15px;">Machine Learning</span>
+<span style="background-color:#0769AD;color:white;padding:5px 10px;border-radius:15px;">Deep Learning</span>
+<span style="background-color:#228B22;color:white;padding:5px 10px;border-radius:15px;">Spatial Analysis</span>
+<span style="background-color:#8A2BE2;color:white;padding:5px 10px;border-radius:15px;">Statistics</span>
+<span style="background-color:#CC2927;color:white;padding:5px 10px;border-radius:15px;">SQL</span>
+<span style="background-color:#4285F4;color:white;padding:5px 10px;border-radius:15px;">Google Cloud</span>
+
 
 
 ### **How to Run**
